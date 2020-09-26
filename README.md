@@ -1,12 +1,12 @@
 # Mukesh Mithrakumar
 
-Hi, I am Mukesh. I am a Machine Learning Engineer and the Founder of ADhirayan AI Solutions. We help companies build and integrate Machine Learning based products.
+Hi, I am Mukesh. I am a Sr. Machine Learning Engineer at IQVIA.
 
 ## Updates
 
-🔭 I didn't have the bandwidth in the past year but I am picking back [TensorFlow Scientific](https://github.com/mukeshmithrakumar/scientific) and [Deep Learning with Tensorflow 2.x](https://github.com/adhiraiyan/DeepLearningWithTF2.0). If you are looking to contribute, please reach out.
+🔭 I am starting my Masters, so will be posting on (AD AI Blog)[https://www.adhiraiyan.org/] my notes. You can check all the posts at: (OMCS)[https://www.adhiraiyan.org/category/deeplearningwithtf/]
 
-💬 I am also a Data Science Mentor at Springboard and Thinkful so if you are looking to get into Data Science and have questions that you can't find answers online. Please feel free to reach out. Would love to help 🙂
+💬 I am also a Data Science Mentor at Springboard so if you are looking to get into Data Science and have questions that you can't find answers online. Please feel free to reach out. Would love to help 🙂
 
 ## Get in Touch
 
