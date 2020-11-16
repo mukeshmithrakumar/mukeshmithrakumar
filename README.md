@@ -4,9 +4,9 @@ Hi, I am Mukesh. I am a Sr. Machine Learning Engineer at IQVIA.
 
 ## Updates
 
-🔭 I am starting my Masters, so will be posting on [AD AI Blog](https://www.adhiraiyan.org/) my notes. You can check all the posts at: [OMCS](https://www.adhiraiyan.org/category/deeplearningwithtf/)
+🔭 Pending...
 
-💬 I am also a Data Science Mentor at Springboard so if you are looking to get into Data Science and have questions that you can't find answers online. Please feel free to reach out. Would love to help 🙂
+💬 I am also a Data Science Instructor so if you are looking to get into Data Science and have questions that you can't find answers online. Please feel free to reach out. Would love to help 🙂
 
 ## Get in Touch
 
