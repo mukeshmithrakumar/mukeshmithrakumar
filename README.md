@@ -2,6 +2,8 @@
 
 Hi, I am Mukesh. I am a Sr. Machine Learning Engineer at IQVIA.
 
+![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukeshmithrakumar)
+
 ## Updates
 
 🔭 Pending...
