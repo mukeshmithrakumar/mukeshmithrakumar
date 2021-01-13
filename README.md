@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://www.adhiraiyan.org/">
-  <img align="left" alt="Mukesh | Blog" width="30px" src="https://raw.githubusercontent.com/mukeshmithrakumar/mukeshmithrakumar/master/assets/adhiraiyan.png" />
+  <img align="left" alt="Mukesh | Blog" width="24px" src="https://raw.githubusercontent.com/mukeshmithrakumar/mukeshmithrakumar/master/assets/adhiraiyan.png" />
 </a>
 
 <br/>
