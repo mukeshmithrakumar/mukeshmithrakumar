@@ -1,6 +1,26 @@
 # Mukesh Mithrakumar
 
-Hi, I am Mukesh. I am a Sr. Machine Learning Engineer at IQVIA.
+Hi, I am [Mukesh](https://www.mukeshmithrakumar.com/) 👋. I am a Sr. Machine Learning Engineer at IQVIA.
+
+
+<a href="https://www.linkedin.com/in/mukesh-mithrakumar/">
+  <img align="left" alt="Mukesh | LinkedIn" width="40px" src="https://raw.githubusercontent.com/mukeshmithrakumar/mukeshmithrakumar/master/assets/linkedin.png" />
+</a>
+
+<a href="https://twitter.com/MMithrakumar">
+  <img align="left" alt="Mukesh | Twitter" width="40px" src="https://raw.githubusercontent.com/mukeshmithrakumar/mukeshmithrakumar/master/assets/twitter.png" />
+</a>
+
+<a href="https://www.facebook.com/adhiraiyan/">
+  <img align="left" alt="Mukesh | Facebook" width="40px" src="https://raw.githubusercontent.com/mukeshmithrakumar/mukeshmithrakumar/master/assets/facebook.png" />
+</a>
+
+<a href="https://www.adhiraiyan.org/">
+  <img align="left" alt="Mukesh | Blog" width="50px" src="https://raw.githubusercontent.com/mukeshmithrakumar/mukeshmithrakumar/master/assets/adhiraiyan.png" />
+</a>
+
+<br />
+<br />
 
 ![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukeshmithrakumar&count_private=true&bg_color=45,0099ff,6633ff&title_color=fffefe&text_color=fffefe&icon_color=fffefe&show_icons=true)
 
@@ -12,12 +32,4 @@ Hi, I am Mukesh. I am a Sr. Machine Learning Engineer at IQVIA.
 🔭 Pending...
 
 💬 I am also a Data Science Instructor so if you are looking to get into Data Science and have questions that you can't find answers online. Please feel free to reach out. Would love to help 🙂
-
-## Get in Touch
-
-- LinkedIn: https://www.linkedin.com/in/mukesh-mithrakumar/
-- Twitter: https://twitter.com/MMithrakumar
-- Facebook: https://www.facebook.com/adhiraiyan/
-- Blog: https://www.adhiraiyan.org/
-- Personal Website: https://www.mukeshmithrakumar.com/
 
