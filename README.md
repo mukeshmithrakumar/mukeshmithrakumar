@@ -1,4 +1,4 @@
-### Hi there, I am [Mukesh](https://www.mukeshmithrakumar.com/) 👋
+## Hi there, I am [Mukesh](https://www.mukeshmithrakumar.com/) 👋
 
 <a href="https://www.linkedin.com/in/mukesh-mithrakumar/">
   <img align="left" alt="Mukesh | LinkedIn" width="20px" src="https://raw.githubusercontent.com/mukeshmithrakumar/mukeshmithrakumar/master/assets/linkedin.png" />
@@ -21,7 +21,7 @@
 
 I am a Sr. Machine Learning Engineer at IQVIA.
 
-## Updates
+### Updates
 
 🔭 Pending...
 
