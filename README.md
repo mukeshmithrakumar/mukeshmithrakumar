@@ -1,7 +1,6 @@
 # Mukesh Mithrakumar
 
-Hi, I am [Mukesh](https://www.mukeshmithrakumar.com/) 👋. I am a Sr. Machine Learning Engineer at IQVIA.
-
+### Hi, I am [Mukesh](https://www.mukeshmithrakumar.com/) 👋
 
 <a href="https://www.linkedin.com/in/mukesh-mithrakumar/">
   <img align="left" alt="Mukesh | LinkedIn" width="40px" src="https://raw.githubusercontent.com/mukeshmithrakumar/mukeshmithrakumar/master/assets/linkedin.png" />
@@ -22,14 +21,14 @@ Hi, I am [Mukesh](https://www.mukeshmithrakumar.com/) 👋. I am a Sr. Machine L
 <br />
 <br />
 
-![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukeshmithrakumar&count_private=true&bg_color=45,0099ff,6633ff&title_color=fffefe&text_color=fffefe&icon_color=fffefe&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmithrakumar&hide=jupyter%20notebook,html&layout=compact)](https://github.com/mukeshmithrakumar/github-readme-stats)
-
+I am a Sr. Machine Learning Engineer at IQVIA.
 
 ## Updates
 
 🔭 Pending...
 
-💬 I am also a Data Science Instructor so if you are looking to get into Data Science and have questions that you can't find answers online. Please feel free to reach out. Would love to help 🙂
+---
 
+![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukeshmithrakumar&count_private=true&bg_color=45,0099ff,6633ff&title_color=fffefe&text_color=fffefe&icon_color=fffefe&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmithrakumar&hide=jupyter%20notebook,html&layout=compact)](https://github.com/mukeshmithrakumar/github-readme-stats)
