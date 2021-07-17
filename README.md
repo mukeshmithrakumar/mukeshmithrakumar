@@ -27,6 +27,14 @@ I am a Sr. Machine Learning Engineer at IQVIA.
 
 ---
 
-![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukeshmithrakumar&count_private=true&bg_color=45,0099ff,6633ff&title_color=fffefe&text_color=fffefe&icon_color=fffefe&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mukeshmithrakumar&count_private=true&show_icons=true&theme=vue-dark" alt="stats" width="48%" align="right"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmithrakumar&hide=jupyter%20notebook,html&layout=compact)](https://github.com/mukeshmithrakumar/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshmithrakumar&theme=soft-green" alt="contribution" width="48%" >
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmithrakumar&theme=dark&hide=jupyter%20notebook,html&layout=compact"  alt="langs" width="48%" >
+
+<!-- <img src="(https://github-readme-stats.vercel.app/api?username=mukeshmithrakumar&count_private=true&bg_color=45,0099ff,6633ff&title_color=fffefe&text_color=fffefe&icon_color=fffefe&show_icons=true" width="45%" align="right"/> -->
+
+<!-- ![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukeshmithrakumar&count_private=true&bg_color=45,0099ff,6633ff&title_color=fffefe&text_color=fffefe&icon_color=fffefe&show_icons=true) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmithrakumar&theme=dark&hide=jupyter%20notebook,html&layout=compact)](https://github.com/mukeshmithrakumar/github-readme-stats) -->
