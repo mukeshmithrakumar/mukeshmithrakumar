@@ -39,7 +39,7 @@ I am a Sr. Machine Learning Engineer at IQVIA.
 
 -->
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="90%">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ## Tech Stack
 <p>
