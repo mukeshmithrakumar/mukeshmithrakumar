@@ -35,11 +35,11 @@ I am a Sr. Machine Learning Engineer at IQVIA.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshmithrakumar&count_private=true&theme=soft-green" alt="contribution" width="48%" >
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmithrakumar&count_private=true&langs_count=8&theme=dark&hide=jupyter%20notebook,html,css&layout=compact"  alt="langs" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmithrakumar&count_private=true&langs_count=8&theme=dark&hide=jupyter%20notebook,html,css&layout=compact"  alt="langs" width="20%" >
+
 -->
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="80%">
 
 ## Tech Stack
 <p>
