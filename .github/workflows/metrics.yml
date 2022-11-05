@@ -18,7 +18,7 @@ jobs:
           user: pitmonticone
           config_timezone: Europe/Rome
           config_display: large
-          commits_authoring: 38562595+mukeshmithrakumar@users.noreply.github.com, mukesh@mukeshmithrakumar.com
+          commits_authoring: mukesh@mukeshmithrakumar.com
           plugin_achievements: yes
           plugin_calendar: yes
           plugin_calendar_limit: 3
@@ -37,6 +37,5 @@ jobs:
           #plugin_people: yes
           #plugin_people_types: contributors, sponsoring
           plugin_repositories: yes
-          plugin_repositories_featured: JuliaGraphs/MultilayerGraphs.jl, InPhyT/COVID19-Italy-Integrated-Surveillance-Data, JuliaHealth/ICD_GEMs.jl, pitmonticone/EnergySystemModelling, InPhyT/UnrollingAverages.jl, pitmonticone/SocialMediaEgoGraphAnalysis
           #plugin_topics: yes
           #plugin_topics_mode: icons
