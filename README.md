@@ -24,17 +24,22 @@
 
 I am a Sr. Machine Learning Engineer at IQVIA.
 
+<!---
 ## Updates
 
 🔭 Pending...
 
-## GitHub Stats
+## GitHub Stats 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mukeshmithrakumar&count_private=true&show_icons=true&theme=vue-dark" alt="stats" width="48%" align="right"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshmithrakumar&count_private=true&theme=soft-green" alt="contribution" width="48%" >
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmithrakumar&count_private=true&langs_count=8&theme=dark&hide=jupyter%20notebook,html,css&layout=compact"  alt="langs" width="48%" >
+-->
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 
 ## Tech Stack
 <p>
@@ -61,6 +66,3 @@ I am a Sr. Machine Learning Engineer at IQVIA.
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white&style=plastic" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white&style=plastic" />
 </p>
-
-
-![GitHub Metrics](github-metrics.svg)
