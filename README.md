@@ -61,3 +61,6 @@ I am a Sr. Machine Learning Engineer at IQVIA.
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white&style=plastic" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white&style=plastic" />
 </p>
+
+
+![GitHub Metrics](github-metrics.svg)
